@@ -1,4 +1,4 @@
-#HTML/CSS/JavaScript 教程
+# HTML/CSS/JavaScript 教程
 
 欢迎来到HTML/CSS/JavaScript教程，本教程旨在帮助您学习和掌握网页开发的基础知识和技能。在本教程中，您将学习以下内容：
 
