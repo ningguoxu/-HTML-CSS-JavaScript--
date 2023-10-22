@@ -16,7 +16,7 @@
   
 如果你已经准备好了这些东西，那么就让我们开始吧！
 
-AI帮写代码：ChatGPT 官网[ChatGPT](https://chat.openai.com)
+<b>AI帮写代码：ChatGPT 官网[ChatGPT](https://chat.openai.com)</b>
 <br>
 ChatGPT提示词优化：
 <br>
