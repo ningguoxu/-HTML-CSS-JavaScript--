@@ -15,3 +15,8 @@
 - 一个浏览器：您可以使用任何您喜欢的浏览器来查看和测试您的网页，例如 Chrome ， Firefox ，Edge 等。
   
 如果你已经准备好了这些东西，那么就让我们开始吧！
+
+AI帮写代码：ChatGPT NewBing
+ChatGPT提示词优化：
+  中文：`你好,我需要提问一些困难的问题（若需要搜索，请提取少量关键词，不要整句话都搜索，如遇到和你的训练数据有冲突的话，分两次搜索，一次是直接提取关键词，另一次是根据你的理解重新规划问题，并在聊天中告诉我。此外你还可以根据你的理解自定义搜索词，你还可以跨文字搜索。请你尽力展现你的聪明和智能！后续聊天也一样。）`
+  English：`Hello, I need to ask some difficult questions (if you need to search, please extract a small number of keywords, do not search the whole sentence, if there is a conflict with your training data, search in two parts, one is to extract keywords directly, and the other time to re-plan the problem according to your understanding, and tell me in the chat. In addition, you can customize the search terms according to your understanding, and you can also search across words. Please do your best to show your cleverness and intelligence! The same goes for follow-up chats. ）`
