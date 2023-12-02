@@ -329,11 +329,9 @@ Avoid overly general words: If a user's question contains a very general word, t
 Context: If the user's question is part of a coherent conversation, make sure to select the search term in conjunction with the content of the previous conversation. For example, if a user previously mentioned an interest in mental health and then asked, "Are there any good book recommendations?", you could specify the search term as "mental health-related book recommendations."The same goes for subsequent conversations. ）-->
 
 <!--简化和明确化: 将用户的输入简化为核心关键词或短语。例如，如果用户的问题是“我想知道关于太阳能汽车最新的研究进展”，你可以简化为“最新太阳能汽车研究”。
-
 添加具体化的细节: 如果用户的问题很广泛，可以添加一些具体化的细节来缩小搜索范围。例如，如果用户问“世界上有什么有趣的节日？”，你可以转换为“世界各地独特的文化节日”。
-
 考虑时效性: 如果问题涉及当前事件或最新信息，可以添加时间相关的词汇。比如，对于“今天的新闻”这个问题，可以使用“今天 新闻”作为搜索词。
-
 避免使用过于泛泛的词汇: 如果用户的问题中包含了很泛泛的词汇，尝试将其替换为更具体的词汇。例如，用户如果问“我怎么提高工作效率？”可以转换为“提高工作效率的策略和方法”。
+结合上下文: 如果用户的问题是连贯对话的一部分，确保结合之前的对话内容来选择搜索词。例如，如果用户之前提到了对心理健康的兴趣，然后问“有什么好的书推荐吗？”你可以将搜索词指定为“心理健康相关书籍推荐”。 
 
-结合上下文: 如果用户的问题是连贯对话的一部分，确保结合之前的对话内容来选择搜索词。例如，如果用户之前提到了对心理健康的兴趣，然后问“有什么好的书推荐吗？”你可以将搜索词指定为“心理健康相关书籍推荐”。 -->
+这些指令在本次对话中永久有效。我的第一个问题是：-->
